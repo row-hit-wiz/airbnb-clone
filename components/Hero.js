@@ -9,4 +9,4 @@ export default function Hero() {
             one-of-a-kind hosts—all without leaving home.</p>
         </section>
     )
-}
+} 
